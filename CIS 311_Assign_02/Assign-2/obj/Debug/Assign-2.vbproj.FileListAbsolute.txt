@@ -1,0 +1,38 @@
+C:\Users\Zinger\AppData\Local\Temporary Projects\Assign-2\bin\Debug\Assign-2.exe.config
+C:\Users\Zinger\AppData\Local\Temporary Projects\Assign-2\bin\Debug\Assign-2.exe
+C:\Users\Zinger\AppData\Local\Temporary Projects\Assign-2\bin\Debug\Assign-2.pdb
+C:\Users\Zinger\AppData\Local\Temporary Projects\Assign-2\bin\Debug\Assign-2.xml
+C:\Users\Zinger\AppData\Local\Temporary Projects\Assign-2\obj\Debug\Assign-2.vbprojResolveAssemblyReference.cache
+C:\Users\Zinger\AppData\Local\Temporary Projects\Assign-2\obj\Debug\Assign_2.Form1.resources
+C:\Users\Zinger\AppData\Local\Temporary Projects\Assign-2\obj\Debug\Assign_2.frmAssign2_Invoice.resources
+C:\Users\Zinger\AppData\Local\Temporary Projects\Assign-2\obj\Debug\Assign_2.Resources.resources
+C:\Users\Zinger\AppData\Local\Temporary Projects\Assign-2\obj\Debug\Assign-2.vbproj.GenerateResource.Cache
+C:\Users\Zinger\AppData\Local\Temporary Projects\Assign-2\obj\Debug\Assign-2.vbproj.CoreCompileInputs.cache
+C:\Users\Zinger\AppData\Local\Temporary Projects\Assign-2\obj\Debug\Assign-2.exe
+C:\Users\Zinger\AppData\Local\Temporary Projects\Assign-2\obj\Debug\Assign-2.xml
+C:\Users\Zinger\AppData\Local\Temporary Projects\Assign-2\obj\Debug\Assign-2.pdb
+C:\Users\Zinger\OneDrive\CIS 311 WI 18\Assignments\Assign_2\Assign-2\Assign-2\bin\Debug\Assign-2.exe.config
+C:\Users\Zinger\OneDrive\CIS 311 WI 18\Assignments\Assign_2\Assign-2\Assign-2\bin\Debug\Assign-2.exe
+C:\Users\Zinger\OneDrive\CIS 311 WI 18\Assignments\Assign_2\Assign-2\Assign-2\bin\Debug\Assign-2.pdb
+C:\Users\Zinger\OneDrive\CIS 311 WI 18\Assignments\Assign_2\Assign-2\Assign-2\bin\Debug\Assign-2.xml
+C:\Users\Zinger\OneDrive\CIS 311 WI 18\Assignments\Assign_2\Assign-2\Assign-2\obj\Debug\Assign-2.vbprojResolveAssemblyReference.cache
+C:\Users\Zinger\OneDrive\CIS 311 WI 18\Assignments\Assign_2\Assign-2\Assign-2\obj\Debug\Assign_2.form1.resources
+C:\Users\Zinger\OneDrive\CIS 311 WI 18\Assignments\Assign_2\Assign-2\Assign-2\obj\Debug\Assign_2.frmAssign2_Invoice.resources
+C:\Users\Zinger\OneDrive\CIS 311 WI 18\Assignments\Assign_2\Assign-2\Assign-2\obj\Debug\Assign_2.Resources.resources
+C:\Users\Zinger\OneDrive\CIS 311 WI 18\Assignments\Assign_2\Assign-2\Assign-2\obj\Debug\Assign-2.vbproj.GenerateResource.Cache
+C:\Users\Zinger\OneDrive\CIS 311 WI 18\Assignments\Assign_2\Assign-2\Assign-2\obj\Debug\Assign-2.vbproj.CoreCompileInputs.cache
+C:\Users\Zinger\OneDrive\CIS 311 WI 18\Assignments\Assign_2\Assign-2\Assign-2\obj\Debug\Assign-2.exe
+C:\Users\Zinger\OneDrive\CIS 311 WI 18\Assignments\Assign_2\Assign-2\Assign-2\obj\Debug\Assign-2.xml
+C:\Users\Zinger\OneDrive\CIS 311 WI 18\Assignments\Assign_2\Assign-2\Assign-2\obj\Debug\Assign-2.pdb
+D:\Documents\SVSU Courses\CIS 311 WI 18\Assignments\Assign_02\Assign-2\Assign-2\bin\Debug\Assign-2.exe.config
+D:\Documents\SVSU Courses\CIS 311 WI 18\Assignments\Assign_02\Assign-2\Assign-2\bin\Debug\Assign-2.exe
+D:\Documents\SVSU Courses\CIS 311 WI 18\Assignments\Assign_02\Assign-2\Assign-2\bin\Debug\Assign-2.pdb
+D:\Documents\SVSU Courses\CIS 311 WI 18\Assignments\Assign_02\Assign-2\Assign-2\bin\Debug\Assign-2.xml
+D:\Documents\SVSU Courses\CIS 311 WI 18\Assignments\Assign_02\Assign-2\Assign-2\obj\Debug\Assign_2.Form1.resources
+D:\Documents\SVSU Courses\CIS 311 WI 18\Assignments\Assign_02\Assign-2\Assign-2\obj\Debug\Assign_2.frmAssign2_Invoice.resources
+D:\Documents\SVSU Courses\CIS 311 WI 18\Assignments\Assign_02\Assign-2\Assign-2\obj\Debug\Assign_2.Resources.resources
+D:\Documents\SVSU Courses\CIS 311 WI 18\Assignments\Assign_02\Assign-2\Assign-2\obj\Debug\Assign-2.vbproj.GenerateResource.cache
+D:\Documents\SVSU Courses\CIS 311 WI 18\Assignments\Assign_02\Assign-2\Assign-2\obj\Debug\Assign-2.vbproj.CoreCompileInputs.cache
+D:\Documents\SVSU Courses\CIS 311 WI 18\Assignments\Assign_02\Assign-2\Assign-2\obj\Debug\Assign-2.exe
+D:\Documents\SVSU Courses\CIS 311 WI 18\Assignments\Assign_02\Assign-2\Assign-2\obj\Debug\Assign-2.xml
+D:\Documents\SVSU Courses\CIS 311 WI 18\Assignments\Assign_02\Assign-2\Assign-2\obj\Debug\Assign-2.pdb
