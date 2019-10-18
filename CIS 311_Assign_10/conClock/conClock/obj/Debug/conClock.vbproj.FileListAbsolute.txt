@@ -1,0 +1,33 @@
+C:\Users\zinge\AppData\Local\Temporary Projects\conClock\obj\Debug\conClock.vbprojResolveAssemblyReference.cache
+C:\Users\zinge\AppData\Local\Temporary Projects\conClock\obj\Debug\conClock.conClock.resources
+C:\Users\zinge\AppData\Local\Temporary Projects\conClock\obj\Debug\conClock.Resources.resources
+C:\Users\zinge\AppData\Local\Temporary Projects\conClock\obj\Debug\conClock.vbproj.GenerateResource.Cache
+C:\Users\zinge\AppData\Local\Temporary Projects\conClock\obj\Debug\conClock.vbproj.CoreCompileInputs.cache
+C:\Users\zinge\AppData\Local\Temporary Projects\conClock\bin\Debug\conClock.dll
+C:\Users\zinge\AppData\Local\Temporary Projects\conClock\bin\Debug\conClock.pdb
+C:\Users\zinge\AppData\Local\Temporary Projects\conClock\bin\Debug\conClock.xml
+C:\Users\zinge\AppData\Local\Temporary Projects\conClock\obj\Debug\conClock.dll
+C:\Users\zinge\AppData\Local\Temporary Projects\conClock\obj\Debug\conClock.xml
+C:\Users\zinge\AppData\Local\Temporary Projects\conClock\obj\Debug\conClock.pdb
+C:\Users\zinge\OneDrive\CIS 311 WI 18\Assignments\Assign_10\conClock\conClock\bin\Debug\conClock.dll
+C:\Users\zinge\OneDrive\CIS 311 WI 18\Assignments\Assign_10\conClock\conClock\bin\Debug\conClock.pdb
+C:\Users\zinge\OneDrive\CIS 311 WI 18\Assignments\Assign_10\conClock\conClock\bin\Debug\conClock.xml
+C:\Users\zinge\OneDrive\CIS 311 WI 18\Assignments\Assign_10\conClock\conClock\obj\Debug\conClock.vbprojResolveAssemblyReference.cache
+C:\Users\zinge\OneDrive\CIS 311 WI 18\Assignments\Assign_10\conClock\conClock\obj\Debug\conClock.conClock.resources
+C:\Users\zinge\OneDrive\CIS 311 WI 18\Assignments\Assign_10\conClock\conClock\obj\Debug\conClock.Resources.resources
+C:\Users\zinge\OneDrive\CIS 311 WI 18\Assignments\Assign_10\conClock\conClock\obj\Debug\conClock.vbproj.GenerateResource.Cache
+C:\Users\zinge\OneDrive\CIS 311 WI 18\Assignments\Assign_10\conClock\conClock\obj\Debug\conClock.vbproj.CoreCompileInputs.cache
+C:\Users\zinge\OneDrive\CIS 311 WI 18\Assignments\Assign_10\conClock\conClock\obj\Debug\conClock.dll
+C:\Users\zinge\OneDrive\CIS 311 WI 18\Assignments\Assign_10\conClock\conClock\obj\Debug\conClock.xml
+C:\Users\zinge\OneDrive\CIS 311 WI 18\Assignments\Assign_10\conClock\conClock\obj\Debug\conClock.pdb
+C:\Users\zinge\OneDrive\CIS 311 WI 18\Assignments\Assign_10\Assign_10_robert_zinger\conClock\conClock\bin\Debug\conClock.dll
+C:\Users\zinge\OneDrive\CIS 311 WI 18\Assignments\Assign_10\Assign_10_robert_zinger\conClock\conClock\bin\Debug\conClock.pdb
+C:\Users\zinge\OneDrive\CIS 311 WI 18\Assignments\Assign_10\Assign_10_robert_zinger\conClock\conClock\bin\Debug\conClock.xml
+C:\Users\zinge\OneDrive\CIS 311 WI 18\Assignments\Assign_10\Assign_10_robert_zinger\conClock\conClock\obj\Debug\conClock.conClock.resources
+C:\Users\zinge\OneDrive\CIS 311 WI 18\Assignments\Assign_10\Assign_10_robert_zinger\conClock\conClock\obj\Debug\conClock.Resources.resources
+C:\Users\zinge\OneDrive\CIS 311 WI 18\Assignments\Assign_10\Assign_10_robert_zinger\conClock\conClock\obj\Debug\conClock.vbproj.GenerateResource.Cache
+C:\Users\zinge\OneDrive\CIS 311 WI 18\Assignments\Assign_10\Assign_10_robert_zinger\conClock\conClock\obj\Debug\conClock.vbproj.CoreCompileInputs.cache
+C:\Users\zinge\OneDrive\CIS 311 WI 18\Assignments\Assign_10\Assign_10_robert_zinger\conClock\conClock\obj\Debug\conClock.dll
+C:\Users\zinge\OneDrive\CIS 311 WI 18\Assignments\Assign_10\Assign_10_robert_zinger\conClock\conClock\obj\Debug\conClock.xml
+C:\Users\zinge\OneDrive\CIS 311 WI 18\Assignments\Assign_10\Assign_10_robert_zinger\conClock\conClock\obj\Debug\conClock.pdb
+C:\Users\zinge\OneDrive\CIS 311 WI 18\Assignments\Assign_10\Assign_10_robert_zinger\conClock\conClock\obj\Debug\conClock.vbprojResolveAssemblyReference.cache
