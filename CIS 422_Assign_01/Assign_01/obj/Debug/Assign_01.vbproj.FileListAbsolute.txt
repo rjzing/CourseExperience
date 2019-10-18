@@ -1,0 +1,14 @@
+C:\Users\zinge\OneDrive\CIS 422 FA18\Assignments\Assign_01\Assign_01\bin\Debug\Assign_01.exe.config
+C:\Users\zinge\OneDrive\CIS 422 FA18\Assignments\Assign_01\Assign_01\bin\Debug\Assign_01.exe
+C:\Users\zinge\OneDrive\CIS 422 FA18\Assignments\Assign_01\Assign_01\bin\Debug\Assign_01.pdb
+C:\Users\zinge\OneDrive\CIS 422 FA18\Assignments\Assign_01\Assign_01\bin\Debug\Assign_01.xml
+C:\Users\zinge\OneDrive\CIS 422 FA18\Assignments\Assign_01\Assign_01\obj\Debug\Assign_01.vbprojAssemblyReference.cache
+C:\Users\zinge\OneDrive\CIS 422 FA18\Assignments\Assign_01\Assign_01\obj\Debug\Assign_01.frmAssign_01_Child.resources
+C:\Users\zinge\OneDrive\CIS 422 FA18\Assignments\Assign_01\Assign_01\obj\Debug\Assign_01.frmAssign_01_Parent.resources
+C:\Users\zinge\OneDrive\CIS 422 FA18\Assignments\Assign_01\Assign_01\obj\Debug\Assign_01.Resources.resources
+C:\Users\zinge\OneDrive\CIS 422 FA18\Assignments\Assign_01\Assign_01\obj\Debug\Assign_01.vbproj.GenerateResource.cache
+C:\Users\zinge\OneDrive\CIS 422 FA18\Assignments\Assign_01\Assign_01\obj\Debug\Assign_01.vbproj.CoreCompileInputs.cache
+C:\Users\zinge\OneDrive\CIS 422 FA18\Assignments\Assign_01\Assign_01\obj\Debug\Assign_01.exe
+C:\Users\zinge\OneDrive\CIS 422 FA18\Assignments\Assign_01\Assign_01\obj\Debug\Assign_01.xml
+C:\Users\zinge\OneDrive\CIS 422 FA18\Assignments\Assign_01\Assign_01\obj\Debug\Assign_01.pdb
+C:\Users\zinge\OneDrive\CIS 422 FA18\Assignments\Assign_01\Assign_01\obj\Debug\Assign_01.frmAboutUs.resources
